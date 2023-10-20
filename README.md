@@ -1,5 +1,5 @@
 # Rest-API
-Django Rest framework
+## Django Rest framework
 This is a third party application that takes data from the cnbc on the S&P 500
 serializes in a way that it can be used in a website.
 The data is stored in the postgreql database
