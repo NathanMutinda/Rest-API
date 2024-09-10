@@ -1,6 +1,7 @@
 from django.db import models
 
 # Create your models here.
+# this is a test line code
 
 
 class Stocks(models.Model):
